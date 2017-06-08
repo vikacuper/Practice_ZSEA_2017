@@ -1,0 +1,15 @@
+D:\Документы\Программы\Практика_Light_it_2017\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+D:\Документы\Программы\Практика_Light_it_2017\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+D:\Документы\Программы\Практика_Light_it_2017\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+D:\Документы\Программы\Практика_Light_it_2017\SocketServer\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+D:\Документы\Программы\Практика_Light_it_2017\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+D:\Документы\Программы\Практика_Light_it_2017\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
+C:\Users\Tory\Desktop\Практика_Light_it_2017\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+C:\Users\Tory\Desktop\Практика_Light_it_2017\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\Tory\Desktop\Практика_Light_it_2017\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
+C:\Users\Tory\Desktop\Практика_Light_it_2017\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Tory\Desktop\Практика_Light_it_2017\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Tory\Desktop\Практика_Light_it_2017\SocketServer\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+C:\Users\Tory\Desktop\Практика_Light_it_2017\PracticeZSEA2017\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+C:\Users\Tory\Desktop\Практика_Light_it_2017\PracticeZSEA2017\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\Tory\Desktop\Практика_Light_it_2017\PracticeZSEA2017\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
